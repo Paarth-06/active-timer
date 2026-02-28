@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Paarth-06/active-timer.git"
+  },
   "activationEvents": ["*"],
   "main": "./out/extension.js",
   "contributes": {
